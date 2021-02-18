@@ -46,7 +46,7 @@ citibike_df.head()
 
 
 # 5. Export the Dataframe as a new CSV file without the index.
-#citibike_df.to_csv("citibike_data.csv", index=False)
+citibike_df.to_csv("citibike_data.csv", index=False)
 
 
 # In[ ]:
