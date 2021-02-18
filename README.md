@@ -41,6 +41,7 @@ From the Citi Bike data, it can be inferred that this business model can be sust
 While this data offers some insight into how a similar business model could be successful in Des Moines, further research and analysis should be conducted. It may be beneficial, if possible, to investigate the following: 
 - **Trip duration by user type:** Are subscribers using Citi Bikes for longer durations than one-time customers? Or is the opposite true? 
 - **Age bracket by user type:** What are the ages of customers? Does Des Moines have a similar demographics? 
+
 **Qualitative data:** 
 - What is the popular means of transport currently in Des Moines? What does Des Moines city intrastructure look like? Are roads safe for bikes? Public transportation in New York City is popular and therefore, New Yorkers are open to different means of transportation, especially since most do not own cars. Citi Bike offers an additional source of transportation, but also it is supported by the city infrastructure.  
 - Why are people using Citi Bike (work, school, etc.)? Are there similar needs in Des Moines?
