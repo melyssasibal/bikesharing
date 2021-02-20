@@ -45,3 +45,5 @@ While this data offers some insight into how a similar business model could be s
 **Qualitative data:** 
 - What is the popular means of transport currently in Des Moines? What does Des Moines city intrastructure look like? Are roads safe for bikes? Public transportation in New York City is popular and therefore, New Yorkers are open to different means of transportation, especially since most do not own cars. Citi Bike offers an additional source of transportation, but also it is supported by the city infrastructure.  
 - Why are people using Citi Bike (work, school, etc.)? Are there similar needs in Des Moines?
+
+[link to story](https://public.tableau.com/views/NYCCitiBikeData_challenge/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
